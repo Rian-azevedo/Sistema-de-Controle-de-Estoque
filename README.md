@@ -25,7 +25,7 @@ O sistema simula operações comuns encontradas em sistemas reais de estoque.
     Validações para evitar dados inválidos e estoque negativo
 
 
-# Regras de Negócio
+# Regras de Negocios
 
     Não é permitido cadastrar quantidades ou preços inválidos
     Não é possível adicionar ou remover quantidade menor ou igual a zero
