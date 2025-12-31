@@ -30,9 +30,8 @@ O sistema simula operações comuns encontradas em sistemas reais de estoque.
     Não é permitido cadastrar quantidades ou preços inválidos
     Não é possível adicionar ou remover quantidade menor ou igual a zero
     Não é permitido remover mais produtos do que o disponível em estoque
-    O sistema alerta quando a quantidade de um produto fica abaixo de 10 unidades
+    O sistema alerta quando a quantidade de um produto fica abaixo de 20 unidades
 
 # Tecnologias Utilizadas
 
-    Python 3.x
-    Execução via terminal (CLI)
+    Python 3.13
